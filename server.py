@@ -21,4 +21,4 @@ def enable_cors():
 
 @app.route('/')
 def root():
-	return 'My Sample App'
+	return 'i have your brainzz'
